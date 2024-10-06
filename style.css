@@ -1,0 +1,63 @@
+html,body { margin:0px; padding:0px; background-color : #fff; }
+#canvas{
+position: absolute;
+width: 465px;
+height: 465px;
+background-color : #fff;
+background-repeat: no-repeat;
+background-image: url(http://www.chabudai.org/temp/wonderfl/honehone/img/tenten.gif);
+}
+#hour1{
+position: absolute;
+width: 80px;
+height: 100px;
+top: 170px;
+left: 40px;
+background-repeat: no-repeat;
+background-image: url(http://www.chabudai.org/temp/wonderfl/honehone/img/honehone1.gif);
+}
+#hour2{
+position: absolute;
+width: 80px;
+height: 100px;
+top: 170px;
+left: 80px;
+background-repeat: no-repeat;
+background-image: url(http://www.chabudai.org/temp/wonderfl/honehone/img/honehone1.gif);
+}
+#minute1{
+position: absolute;
+width: 80px;
+height: 100px;
+top: 170px;
+left: 170px;
+background-repeat: no-repeat;
+background-image: url(http://www.chabudai.org/temp/wonderfl/honehone/img/honehone1.gif);
+}
+#minute2{
+position: absolute;
+width: 80px;
+height: 100px;
+top: 170px;
+left: 210px;
+background-repeat: no-repeat;
+background-image: url(http://www.chabudai.org/temp/wonderfl/honehone/img/honehone1.gif);
+}
+#second1{
+position: absolute;
+width: 80px;
+height: 100px;
+top: 170px;
+left: 300px;
+background-repeat: no-repeat;
+background-image: url(http://www.chabudai.org/temp/wonderfl/honehone/img/honehone1.gif);
+}
+#second2{
+position: absolute;
+width: 80px;
+height: 100px;
+top: 170px;
+left: 340px;
+background-repeat: no-repeat;
+background-image: url(http://www.chabudai.org/temp/wonderfl/honehone/img/honehone1.gif);
+}
